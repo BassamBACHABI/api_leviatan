@@ -3,7 +3,7 @@
 ### Pour cloner le projet
 
 ```bash
-git clone git@github.com:yoanbernabeu/symfony6-php8-in-docker-compose.git
+git clone https://github.com/BassamBACHABI/api_leviatan.git
 ```
 
 ### Pour démarrer docker 
